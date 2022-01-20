@@ -35,7 +35,7 @@ When the application is installed, open the MySQL shell and input `source db/sch
 
 ## Demo
 
-
+![Alt text](assets/demo/ecommerce-backend.gif)
 
 ## License
 
